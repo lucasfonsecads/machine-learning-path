@@ -1,5 +1,5 @@
 
-# Machine Learning - 3 months practice [![Awesome]([https://img.shields.io/github/last-commit/lucasfonmiranda/machine-learning-path](https://img.shields.io/github/last-commit/lucasfonmiranda/machine-learning-path))
+# Machine Learning - 3 months practice ![Awesome]([https://img.shields.io/github/last-commit/lucasfonmiranda/machine-learning-path](https://img.shields.io/github/last-commit/lucasfonmiranda/machine-learning-path))
    
 In this repository are some courses and path to learn Machine Learning in 3 - 4 months. I hope I can help people who are just starting out. 
 
