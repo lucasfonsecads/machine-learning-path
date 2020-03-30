@@ -12,33 +12,33 @@ This month we gonna divider in to four weeks planning for study.
   
 
 ### Week 1:
-Probability:
+#### Probability:
 
-*[Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+* [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 > Introduction to probabilistic models, including random processes and the basic elements of statistical inference.
 * [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
 > Questions for study probability.
 
 ### Week 2:
-Linear Algebra:
+#### Linear Algebra:
 
-* [Linear Algebra]([https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/))
+* [Linear Algebra]([https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/])
 >This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
 * [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 >This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines such as physics, economics and social sciences, natural sciences, and engineering. 
 
 ### Week 3:
-Calculous:
+#### Calculous:
 
-* [Calculous - Essences of calculous]([https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr))
+* [Calculous - Essences of calculous]([https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr])
 > This youtube channel have so many videos with so much theory of calculous.
 
 ### Week 4:
-Algorithms:
+#### Algorithms:
 
-* [# Algorithm Design and Analysis]([https://www.edx.org/course/algorithm-design-and-analysis](https://www.edx.org/course/algorithm-design-and-analysis))
+* [Algorithm Design and Analysis]([https://www.edx.org/course/algorithm-design-and-analysis])
 >Learn about the core principles of computer science: algorithmic thinking and computational problem solving.
-* [Intro Algorithms]([https://www.udacity.com/course/intro-to-algorithms--cs215](https://www.udacity.com/course/intro-to-algorithms--cs215))
+* [Intro Algorithms]([https://www.udacity.com/course/intro-to-algorithms--cs215])
 >This class will give you an introduction to the design and analysis of algorithms, enabling you to analyze networks and discover how individuals are connected.
 
 
