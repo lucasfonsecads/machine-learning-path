@@ -7,7 +7,7 @@ In this repository are some courses and path to learn Machine Learning in 3 - 4 
 
 ## Month 1
 
-This month we gonna divider in to four weeks planning for study.
+This month we gonna divider in to four weeks for study.
 
   
 
