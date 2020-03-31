@@ -41,6 +41,15 @@ This month we gonna divider in to four weeks for study.
 * [Intro Algorithms]([https://www.udacity.com/course/intro-to-algorithms--cs215])
 >This class will give you an introduction to the design and analysis of algorithms, enabling you to analyze networks and discover how individuals are connected.
 
+## Month 2
+
+This month we gonna study Python.
+
+Python:
+* [Intro to Python for Data Science]([https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=learnpython_com&utm_campaign=learnpython_tutorials](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=learnpython_com&utm_campaign=learnpython_tutorials))
+> This course focuses on Python specifically for data science. In our Introduction to Python course, you’ll learn about powerful ways to store and manipulate data, and helpful data science tools to begin conducting your own analyses
+* [Learn Python]([https://www.learnpython.org/](https://www.learnpython.org/))
+> This site is one interactive Python tutorial.
 
 ## Contributing DSWG Members
 
