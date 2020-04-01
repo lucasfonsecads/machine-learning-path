@@ -46,7 +46,7 @@ This month we gonna divider in to four weeks for study.
 This month we gonna study Python.
 
 Python:
-* [Intro to Python for Data Science]([https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=learnpython_com&utm_campaign=learnpython_tutorials](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=learnpython_com&utm_campaign=learnpython_tutorials))
+* [Intro to Python for Data Science]([https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=learnpython_com&utm_campaign=learnpython_tutorials])
 > This course focuses on Python specifically for data science. In our Introduction to Python course, you’ll learn about powerful ways to store and manipulate data, and helpful data science tools to begin conducting your own analyses
 * [Learn Python]([https://www.learnpython.org/](https://www.learnpython.org/))
 > This site is one interactive Python tutorial.
