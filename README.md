@@ -15,7 +15,6 @@ In this repository are some courses and path to learn Machine Learning in 3 - 4 
 
 This month we gonna divider in to four weeks for study.
 
-
 ### Week 1
 
 #### Probability
@@ -73,6 +72,30 @@ Python:
 * [Learn Python](https://www.learnpython.org/)
 
 > This site is one interactive Python tutorial.
+
+## Month 3
+
+This month we gonna see so many courses of machine learning, and now you can decide your path.
+
+* [Google AI](https://ai.google/education/)
+
+> Whether you’re just learning to code or you’re a seasoned machine learning practitioner, you’ll find information and exercises to help you develop your skills and advance your projects.
+
+* [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+
+> This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
+
+* [Machine Learning - Columbia University](https://www.classcentral.com/course/edx-machine-learning-7231)
+
+> Topics include: classification and regression, clustering methods, sequential models, matrix factorization, topic modeling and model selection. Methods include: linear and logistic regression, support vector machines, tree classifiers, boosting, maximum likelihood and MAP inference, EM algorithm, hidden Markov models, Kalman filters, k-means, Gaussian mixture models, among others.
+
+* [Fundamentals of Deep Learning for Computer Vision - Nvidia and Nvidia Deep Learning Institute](https://www.classcentral.com/course/independent-fundamentals-of-deep-learning-for-computer-vision-10730)
+
+> In this hands-on course, you will learn the basics of deep learning by training and deploying neural networks.
+
+## Conclusion
+
+After this path you can start to implement you machine learning algorithms and enjoy the IA world. Please if you have some question or like to add other courses please open one PR.
 
 ## Contributing DSWG Members
 
