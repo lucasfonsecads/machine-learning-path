@@ -10,6 +10,7 @@ In this repository are some courses and path to learn Machine Learning in 3 - 4 
 ## Project Status
 
 ![Active](https://img.shields.io/github/last-commit/lucasfonmiranda/machine-learning-path])
+![Active](https://img.shields.io/github/stars/lucasfonmiranda/machine-learning-path)
 
 ## Month 1
 
