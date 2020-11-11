@@ -44,6 +44,10 @@ This month we gonna divider in to four weeks for study.
 
 > This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines such as physics, economics and social sciences, natural sciences, and engineering.
 
+* [Linear Algebra](https://pt.khanacademy.org/math/linear-algebra)
+
+> This is one course in portugueses. Start with simple basics concepts.  
+
 ### Week 3
 
 #### Calculous
