@@ -2,6 +2,10 @@
 
 In this repository are some courses and path to learn Machine Learning in 3 - 4 months. I hope I can help people who are just starting out
 
+<p align="center">
+<img src="https://media.giphy.com/media/8MPtQ1ranGmze/giphy.gif">
+</p>
+
 ------
 
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
